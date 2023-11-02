@@ -13,6 +13,6 @@ Primero, evaluarás la calidad de los datos y verás si los problemas son signif
 
 Tu proyecto consistirá en tres etapas:
 
-Descripción de los datos
-Preprocesamiento de datos
-Prueba de hipótesis
+/Descripción de los datos
+/Preprocesamiento de datos
+/Prueba de hipótesis
